@@ -3,33 +3,19 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="#19173D" >
 
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:scaleType="centerCrop"
+    <TextView
+        android:id="@+id/textView2"
+        tra
+        android:layout_width="194dp"
+        android:layout_height="124dp"
+        android:layout_marginStart="36dp"
+        android:background=" #5CEBFF"
+        android:rotation="49"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0"
-        app:srcCompat="@drawable/bggetstart" />
-
-    <Button
-        android:id="@+id/buttonGetStarted"
-        android:layout_width="136dp"
-        android:layout_height="62dp"
-        android:layout_marginBottom="72dp"
-        android:background="@drawable/cercle_button"
-        android:text="Go"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.902"
-        app:layout_constraintStart_toStartOf="parent" />
-
-
+        app:layout_constraintVertical_bias="0.161" />
 </androidx.constraintlayout.widget.ConstraintLayout>
