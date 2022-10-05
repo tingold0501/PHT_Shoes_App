@@ -6,7 +6,6 @@
     android:layout_height="match_parent">
 
 
-
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="0dp"
@@ -14,19 +13,22 @@
         android:scaleType="centerCrop"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
         app:srcCompat="@drawable/bggetstart" />
 
     <Button
         android:id="@+id/buttonGetStarted"
-        android:layout_width="311dp"
-        android:layout_height="51dp"
-        android:layout_marginBottom="24dp"
+        android:layout_width="136dp"
+        android:layout_height="62dp"
+        android:layout_marginBottom="72dp"
         android:background="@drawable/cercle_button"
-        android:text="Get Started"
+        android:text="Go"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.902"
         app:layout_constraintStart_toStartOf="parent" />
 
 
