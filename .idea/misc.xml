@@ -3,13 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/MSI/Desktop/Learn/ProjectShoesLinkThreeInOne/PHT_Shoes_App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/MSI/Desktop/Learn/ProjectShoesLinkThreeInOne/PHT_Shoes_App/app/src/main/res/drawable/cercle_button.xml" value="0.258" />
+        <entry key="..\:/Users/MSI/Desktop/Learn/ProjectShoesLinkThreeInOne/PHT_Shoes_App/app/src/main/res/drawable/cloud_circle.xml" value="0.2335" />
+        <entry key="..\:/Users/MSI/Desktop/Learn/ProjectShoesLinkThreeInOne/PHT_Shoes_App/app/src/main/res/drawable/custom_button.xml" value="0.215" />
         <entry key="..\:/Users/MSI/Desktop/Learn/ProjectShoesLinkThreeInOne/PHT_Shoes_App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.259" />
+        <entry key="..\:/Users/MSI/Desktop/Learn/ProjectShoesLinkThreeInOne/PHT_Shoes_App/app/src/main/res/drawable/round_back_dark_blue.xml" value="0.259" />
         <entry key="..\:/Users/MSI/Desktop/Learn/ProjectShoesLinkThreeInOne/PHT_Shoes_App/app/src/main/res/layout/activity_getstarted.xml" value="0.22644927536231885" />
-        <entry key="..\:/Users/MSI/Desktop/Learn/ProjectShoesLinkThreeInOne/PHT_Shoes_App/app/src/main/res/layout/activity_home.xml" value="0.21422101449275363" />
+        <entry key="..\:/Users/MSI/Desktop/Learn/ProjectShoesLinkThreeInOne/PHT_Shoes_App/app/src/main/res/layout/activity_home.xml" value="0.2509057971014493" />
         <entry key="..\:/Users/MSI/Desktop/Learn/ProjectShoesLinkThreeInOne/PHT_Shoes_App/app/src/main/res/layout/activity_login.xml" value="0.22871376811594202" />
         <entry key="..\:/Users/MSI/Desktop/Learn/ProjectShoesLinkThreeInOne/PHT_Shoes_App/app/src/main/res/layout/activity_main.xml" value="0.22871376811594202" />
         <entry key="..\:/Users/MSI/Desktop/Learn/ProjectShoesLinkThreeInOne/PHT_Shoes_App/app/src/main/res/layout/actyvity_login.xml" value="0.22871376811594202" />
+        <entry key="..\:/Users/MSI/Desktop/Learn/ProjectShoesLinkThreeInOne/PHT_Shoes_App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>
   </component>
